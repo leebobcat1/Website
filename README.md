@@ -1,5 +1,4 @@
-Website 
-what up?!
+Website what up?!
 =======
 
 Basic Website for you to fork and enjoy <br>
